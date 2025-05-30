@@ -5,4 +5,6 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licenc
 
 # Description
 
-Ce projet consiste à mesurer le temps de réaction d’un utilisateur à l’aide d’un dispositif électronique composé d’une carte UCA, d’un écran OLED, d’un bouton, et d’une bande de LEDs. Lorsqu’un utilisateur appuie sur le bouton, une animation se lance, puis les LEDs deviennent vertes pour signaler le moment de réagir. L’utilisateur doit alors appuyer de nouveau sur le bouton le plus rapidement possible. Le temps de réaction est mesuré en millisecondes, affiché à l’écran OLED, et associé à un "animal totem" en fonction de la performance (ex. : Faucon, Chat, Pierre...).
+Ce projet consiste à mesurer le temps de réaction d’un utilisateur à l’aide d’un dispositif électronique composé d’une carte UCA, d’un écran OLED, d’un bouton, et d’une bande de LEDs. 
+Lorsqu’un utilisateur appuie sur le bouton, une animation se lance, puis les LEDs deviennent vertes pour signaler le moment de réagir. L’utilisateur doit alors appuyer de nouveau sur le bouton le plus rapidement possible. Le temps de réaction est mesuré en millisecondes, affiché à l’écran OLED, et associé à un Animal totem en fonction de la performance (ex. : Faucon, Chat et bien d'autres ou Pierre pour les plus lents).
+À la fin de chaque partie, le meilleur temps (record) est affiché en continu. Si l’utilisateur bat ce record, une animation visuelle spéciale est déclenchée via les LEDs pour célébrer la performance.
