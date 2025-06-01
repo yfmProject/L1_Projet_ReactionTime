@@ -1,10 +1,3 @@
-
-╔═══════════════════════════════════════════════════════╗
-║          Projet Arduino – Réaction Time               ║
-║───────────────────────────────────────────────────────║
-
-
-
 #include <FastLED.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
