@@ -19,7 +19,7 @@ Ce guide vous accompagne pas à pas pour utiliser, tester et comprendre le proje
 
 1. **Prendre le code**  
    téléchargez ou copiez le dépôt GitHub depuis :  
-   `https://github.com/yfmProject/L1_Projet_ReactionTime`
+   `https://github.com/yfmProject/L1_Projet_ReactionTime/blob/main/ArduinoCode.m`
 
 2. **Ouvrir le projet dans Arduino IDE**  
    Lancez Arduino IDE et ouvrez le fichier `ReactionTime.ino` (ou équivalent en collant directement le code).
